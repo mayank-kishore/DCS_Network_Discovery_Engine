@@ -1,7 +1,7 @@
 s="10.8."
 n=0
 N=256
-out_file="ip.dat"
+out_file="ip2.dat"
 echo -n > $out_file
 while [ $n -lt $N ]
 do
