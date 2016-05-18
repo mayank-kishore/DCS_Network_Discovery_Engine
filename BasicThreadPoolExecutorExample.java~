@@ -12,7 +12,7 @@ public class BasicThreadPoolExecutorExample
         ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newCachedThreadPool();
         for (int i = 0; i <= 255; i++) 
         {
-            Task task = new Task(i.toString());
+            Task task = new Task(Integer.toString(i));
             System.out.println("A new task has been added : " + task.getName());
             executor.execute(task);
 		/*try{

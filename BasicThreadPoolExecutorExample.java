@@ -13,7 +13,7 @@ public class BasicThreadPoolExecutorExample
         for (int i = 0; i <= 255; i++) 
         {
             Task task = new Task(Integer.toString(i));
-            System.out.println("A new task has been added : " + task.getName());
+            //System.out.println("A new task has been added : " + task.getName());
             executor.execute(task);
 		/*try{
 	    TimeUnit.SECONDS.sleep(1);
