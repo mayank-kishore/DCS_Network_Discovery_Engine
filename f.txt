@@ -1,29 +1,17 @@
---- 10.8.13.247 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 8997ms
---- 10.8.13.132 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9036ms
---- 10.8.13.133 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9036ms
---- 10.8.13.192 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9003ms
---- 10.8.13.167 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9069ms
---- 10.8.13.197 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9033ms
---- 10.8.13.40 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9048ms
---- 10.8.13.154 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9006ms
---- 10.8.13.61 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9082ms
---- 10.8.13.116 ping statistics -- 10 packets transmitted, 9 received, 10% packet loss, time 9005ms
---- 10.8.13.31 ping statistics -- 10 packets transmitted, 9 received, 10% packet loss, time 9003ms
---- 10.8.13.207 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9026ms
---- 10.8.13.67 ping statistics -- 10 packets transmitted, 9 received, 10% packet loss, time 9030ms
---- 10.8.13.141 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9041ms
---- 10.8.13.211 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9030ms
---- 10.8.13.52 ping statistics -- 10 packets transmitted, 8 received, 20% packet loss, time 9007ms
---- 10.8.13.114 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9024ms
---- 10.8.13.68 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9030ms
---- 10.8.13.50 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9046ms
---- 10.8.13.164 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9019ms
---- 10.8.13.144 ping statistics -- 10 packets transmitted, 5 received, 50% packet loss, time 9056ms
---- 10.8.13.27 ping statistics -- 10 packets transmitted, 7 received, 30% packet loss, time 9002ms
---- 10.8.13.126 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9073ms
---- 10.8.13.215 ping statistics -- 10 packets transmitted, 10 received, 0% packet loss, time 9033ms
---- 10.8.13.56 ping statistics -- 10 packets transmitted, 4 received, +3 errors, 60% packet loss, time 9048ms
---- 10.8.13.161 ping statistics -- 10 packets transmitted, 9 received, 10% packet loss, time 9062ms
---- 10.8.13.106 ping statistics -- 10 packets transmitted, 7 received, 30% packet loss, time 9015ms
---- 10.8.13.218 ping statistics -- 10 packets transmitted, 8 received, 20% packet loss, time 9088ms
---- 10.8.13.225 ping statistics -- 10 packets transmitted, 9 received, 10% packet loss, time 9063ms
+--- 10.8.13.213 ping statistics -- 10 packets transmitted, 1 received, 90% packet loss, time 15053ms
+--- 10.8.13.176 ping statistics -- 10 packets transmitted, 2 received, 80% packet loss, time 14032ms
+--- 10.8.13.52 ping statistics -- 10 packets transmitted, 2 received, 80% packet loss, time 14070ms
+--- 10.8.13.83 ping statistics -- 10 packets transmitted, 1 received, 90% packet loss, time 14047ms
+--- 10.8.13.200 ping statistics -- 10 packets transmitted, 1 received, +4 errors, 90% packet loss, time 11034ms
+--- 10.8.13.195 ping statistics -- 10 packets transmitted, 1 received, +3 errors, 90% packet loss, time 11054ms
+--- 10.8.13.225 ping statistics -- 10 packets transmitted, 2 received, +3 errors, 80% packet loss, time 12062ms
+--- 10.8.13.47 ping statistics -- 10 packets transmitted, 4 received, 60% packet loss, time 14045ms
+--- 10.8.13.147 ping statistics -- 10 packets transmitted, 5 received, 50% packet loss, time 14037ms
+--- 10.8.13.142 ping statistics -- 10 packets transmitted, 3 received, +2 errors, 70% packet loss, time 14057ms
+--- 10.8.13.192 ping statistics -- 10 packets transmitted, 6 received, 40% packet loss, time 14076ms
+--- 10.8.13.144 ping statistics -- 10 packets transmitted, 7 received, 30% packet loss, time 14055ms
+--- 10.8.13.252 ping statistics -- 10 packets transmitted, 6 received, 40% packet loss, time 15050ms
+--- 10.8.13.40 ping statistics -- 10 packets transmitted, 6 received, 40% packet loss, time 14070ms
+--- 10.8.13.0 ping statistics -- 10 packets transmitted, 5 received, 50% packet loss, time 14040ms
+--- 10.8.13.237 ping statistics -- 10 packets transmitted, 7 received, 30% packet loss, time 15052ms
+--- 10.8.13.211 ping statistics -- 10 packets transmitted, 5 received, 50% packet loss, time 14030ms
