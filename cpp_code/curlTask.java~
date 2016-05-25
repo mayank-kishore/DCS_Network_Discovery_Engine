@@ -2,7 +2,7 @@ import java.util.concurrent.TimeUnit;
 import java.net.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-class Task implements Runnable 
+class CurlTask implements Runnable 
 {
     private String name;
  

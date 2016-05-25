@@ -55,8 +55,8 @@ class Task implements Runnable
 	   catch ( Exception e ) {
                              System.out.println("Exception:" + e.getMessage());
       }*/
-	
-	runSystemCommand("ping -c10 -W10 -q " + "10.8.13."+name);
+	for(int i=0;i<256;i++)
+		runSystemCommand("ping -c10 -W10 -q " + "10.8."+i+"."+name);
     	}
     
 }

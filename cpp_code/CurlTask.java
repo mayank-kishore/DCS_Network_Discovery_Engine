@@ -2,11 +2,11 @@ import java.util.concurrent.TimeUnit;
 import java.net.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-class Task implements Runnable 
+class CurlTask implements Runnable 
 {
     private String name;
  
-    public Task(String name) 
+    public CurlTask(String name) 
     {
         this.name = name;
     }
@@ -37,6 +37,7 @@ class Task implements Runnable
     @Override
     public void run() 
     {
+      
       runSystemCommand("sudo ./arpa1 " + "10.8.3."+name);
     }
     

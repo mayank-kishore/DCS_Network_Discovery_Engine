@@ -220,6 +220,6 @@ int main(int argc, char** argv)
 	}
 	//cout << "ping returned " << ping(argv[1]) << " "<<argv[1]<< endl;
 	if(ping(argv[1]))
-		cout <<argv[1]<<endl;
+		cout << "Recv: echo reply "<< argv[1]<<endl;
 	return 0;
 }
