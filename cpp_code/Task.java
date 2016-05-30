@@ -37,8 +37,9 @@ class Task implements Runnable
     @Override
     public void run() 
     {
-      runSystemCommand("sudo ./arpa1 " + "10.8.3."+name);
+    	for(int i=0;i<256;i++){
+      		runSystemCommand("sudo ./arpa1 " + "10.8."+i+"."+name);
+    	}
     }
-    
 }
 
