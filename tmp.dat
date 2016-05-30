@@ -1,0 +1,445 @@
++ virbr0 IPv4 me [ea:b0:af:b4:48:35]                        Workstation          local
++  wlan0 IPv6 me [0c:8b:fd:f4:55:01]                        Workstation          local
++  wlan0 IPv4 me [0c:8b:fd:f4:55:01]                        Workstation          local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483289301            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483289408            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483289255            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483288591            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483289352            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483289317            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483288799            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2010F-I - 526524352           Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483288620            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483289348            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483292055            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483289399            Web Site             local
++  wlan0 IPv6 D-Link DIR-636L Configuration Utility (2)     Web Site             local
++  wlan0 IPv6 D-Link SharePort Web Access                   Web Site             local
++  wlan0 IPv6 D-Link DIR-636L Configuration Utility         Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483289301            Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483288591            Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483289317            Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483288799            Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2010F-I - 526524352           Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483288620            Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483289348            Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483292055            Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483289399            Web Site             local
++  wlan0 IPv4 D-Link DIR-636L Configuration Utility (2)     Web Site             local
++  wlan0 IPv4 Brother DCP-7065DN                            Web Site             local
++  wlan0 IPv4 D-Link SharePort Web Access                   Web Site             local
++  wlan0 IPv4 D-Link DIR-636L Configuration Utility         Web Site             local
++  wlan0 IPv4 Canon MB5000 series                           Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483289408            Web Site             local
++  wlan0 IPv4 YOGESHJAIN-PC Web-based Configuration         Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483288822            Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483289352            Web Site             local
++  wlan0 IPv4 SHUBASH-PC Web-based Configuration            Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483288863            Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110-I - 483289255            Web Site             local
++  wlan0 IPv4 HP Officejet Pro 6830 [9C16D5]                Web Site             local
++  wlan0 IPv4 SOMNATH-PC Web-based Configuration            Web Site             local
++  wlan0 IPv4 SALAM Web-based Configuration                 Web Site             local
++  wlan0 IPv4 Agilent PCSERNO Unknown Instrument - SJ27987929 (2) Web Site             local
++  wlan0 IPv4 MANDEEP-PC Web-based Configuration            Web Site             local
++  wlan0 IPv4 RAM_IITM Web-based Configuration              Web Site             local
++  wlan0 IPv4 PATEL_PC Web-based Configuration              Web Site             local
++  wlan0 IPv4 pavanteja's remote desktop on pavanteja-Inspiron-5520 Web Site             local
++  wlan0 IPv4 HP LaserJet pro M1536dnf MFP (CE538A)         Web Site             local
++  wlan0 IPv4 DESKTOP-G6ICUIS Web-based Configuration       Web Site             local
++  wlan0 IPv4 TUSHAAR Web-based Configuration               Web Site             local
++  wlan0 IPv4 yogeshjain-PC                                 _ni-logos._tcp       local
++  wlan0 IPv6 HIKVISION DS-2CD2110-I - 483288822            Web Site             local
++  wlan0 IPv6 HIKVISION DS-2CD2110F-I - 507655232           Web Site             local
++  wlan0 IPv4 HIKVISION DS-2CD2110F-I - 507655232           Web Site             local
++  wlan0 IPv6 pclab-61 [10:bf:48:73:18:25]                  Workstation          local
++  wlan0 IPv6 IUATC [c8:1f:66:03:80:8c]                     Workstation          local
++  wlan0 IPv6 pclab-31 [30:85:a9:46:f3:9c]                  Workstation          local
++  wlan0 IPv6 pclab-14 [70:71:bc:9c:6c:4b]                  Workstation          local
++  wlan0 IPv4 pclab-61 [10:bf:48:73:18:25]                  Workstation          local
++  wlan0 IPv4 IUATC [c8:1f:66:03:80:8c]                     Workstation          local
++  wlan0 IPv4 pclab-31 [30:85:a9:46:f3:9c]                  Workstation          local
++  wlan0 IPv6 pclab-16 [70:71:bc:9c:6b:e2]                  Workstation          local
++  wlan0 IPv6 LigoDLB 5-20 (10.8.2.201, 00:19:3B:08:EA:DA)  Web Site             local
++  wlan0 IPv6 tulika-OptiPlex-9010 [b8:ca:3a:86:5e:7f]      Workstation          local
++  wlan0 IPv6 pclab-20 [70:71:bc:9c:6b:58]                  Workstation          local
++  wlan0 IPv6 pclab-12 [70:71:bc:9c:6c:2e]                  Workstation          local
++  wlan0 IPv6 pclab-13 [70:71:bc:9c:6c:30]                  Workstation          local
++  wlan0 IPv6 lanka [00:25:90:c2:d9:f4]                     Workstation          local
++  wlan0 IPv4 pclab-14 [70:71:bc:9c:6c:4b]                  Workstation          local
++  wlan0 IPv6 Nucleation [1c:65:9d:5d:3e:bf]                Workstation          local
++  wlan0 IPv6 mk-desktop [e8:40:f2:0a:fd:64]                Workstation          local
++  wlan0 IPv6 pclab-18 [70:71:bc:9c:6a:b3]                  Workstation          local
++  wlan0 IPv6 pclab-15 [70:71:bc:9c:6b:fc]                  Workstation          local
++  wlan0 IPv6 LIBRARY01 [38:60:77:cb:92:77]                 Workstation          local
++  wlan0 IPv6 hvarma [c8:1f:66:39:ae:72]                    Workstation          local
++  wlan0 IPv6 Research [b8:ca:3a:83:b8:2d]                  Workstation          local
++  wlan0 IPv4 LigoDLB 5-20 (10.8.2.201, 00:19:3B:08:EA:DA)  Web Site             local
++  wlan0 IPv6 pclab-29 [30:85:a9:47:17:9c]                  Workstation          local
++  wlan0 IPv4 pclab-16 [70:71:bc:9c:6b:e2]                  Workstation          local
++  wlan0 IPv6 ibmmaster-2 [00:21:5e:99:94:3a]               Workstation          local
++  wlan0 IPv6 ibmmaster-2 [00:21:5e:99:94:38]               Workstation          local
++  wlan0 IPv6 ferrari [50:af:73:6b:b3:a4]                   Workstation          local
++  wlan0 IPv6 library-HCL-Desktop [7c:05:07:07:2f:e1]       Workstation          local
++  wlan0 IPv4 tulika-OptiPlex-9010 [b8:ca:3a:86:5e:7f]      Workstation          local
++  wlan0 IPv4 pclab-20 [70:71:bc:9c:6b:58]                  Workstation          local
++  wlan0 IPv4 pclab-12 [70:71:bc:9c:6c:2e]                  Workstation          local
++  wlan0 IPv4 pclab-13 [70:71:bc:9c:6c:30]                  Workstation          local
++  wlan0 IPv4 lanka [00:25:90:c2:d9:f4]                     Workstation          local
++  wlan0 IPv4 mk-desktop [e8:40:f2:0a:fd:64]                Workstation          local
++  wlan0 IPv4 pclab-18 [70:71:bc:9c:6a:b3]                  Workstation          local
++  wlan0 IPv4 pclab-44 [30:85:a9:46:f3:a6]                  Workstation          local
++  wlan0 IPv4 Nucleation [1c:65:9d:5d:3e:bf]                Workstation          local
++  wlan0 IPv4 LIBRARY01 [38:60:77:cb:92:77]                 Workstation          local
++  wlan0 IPv4 pclab-15 [70:71:bc:9c:6b:fc]                  Workstation          local
++  wlan0 IPv4 pclab-41 [30:85:a9:46:f3:87]                  Workstation          local
++  wlan0 IPv4 hvarma [c8:1f:66:39:ae:72]                    Workstation          local
++  wlan0 IPv4 Research [b8:ca:3a:83:b8:2d]                  Workstation          local
++  wlan0 IPv4 pclab-29 [30:85:a9:47:17:9c]                  Workstation          local
++  wlan0 IPv4 ibmmaster-2 [00:21:5e:99:94:3a]               Workstation          local
++  wlan0 IPv4 ferrari [50:af:73:6b:b3:a4]                   Workstation          local
++  wlan0 IPv6 HP Officejet Pro 6830 [9C16D5]                Internet Printer     local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (6DB38D)             Internet Printer     local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (F349E0)             Internet Printer     local
++  wlan0 IPv6 Brother DCP-7065DN [001ba9a52f68]             Internet Printer     local
++  wlan0 IPv6 HP LaserJet pro M1536dnf MFP (CE538A)         Internet Printer     local
++  wlan0 IPv6 HP Fax 2 @ hvarma                             Internet Printer     local
++  wlan0 IPv4 HP LaserJet pro M1536dnf MFP (CE538A)         Internet Printer     local
++  wlan0 IPv4 HP Officejet Pro 6830 [9C16D5]                Internet Printer     local
++  wlan0 IPv4 Brother DCP-7065DN                            Internet Printer     local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (6DB38D)             Internet Printer     local
++  wlan0 IPv4 HP Fax 2 @ hvarma                             Internet Printer     local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (F349E0)             Internet Printer     local
++  wlan0 IPv4 Brother DCP-7065DN [001ba9a52f68]             Internet Printer     local
++  wlan0 IPv6 pclab-06 [70:71:bc:9c:6b:e3]                  Workstation          local
++  wlan0 IPv6 aghori [98:90:96:c6:44:fc]                    Workstation          local
++  wlan0 IPv4 ibmmaster-2 [00:21:5e:99:94:38]               Workstation          local
++  wlan0 IPv4 library-HCL-Desktop [7c:05:07:07:2f:e1]       Workstation          local
++  wlan0 IPv4 pclab-06 [70:71:bc:9c:6b:e3]                  Workstation          local
++  wlan0 IPv6 pclab-02 [70:71:bc:9c:6c:26]                  Workstation          local
++  wlan0 IPv6 pathak-HP-Z600-Workstation [b4:b5:2f:ca:64:ab] Workstation          local
++  wlan0 IPv6 IITMandi [34:17:eb:af:0c:0f]                  Workstation          local
++  wlan0 IPv4 pclab-43 [30:85:a9:47:3a:0a]                  Workstation          local
++  wlan0 IPv4 pclab-02 [70:71:bc:9c:6c:26]                  Workstation          local
++  wlan0 IPv4 IITMandi [34:17:eb:af:0c:0f]                  Workstation          local
++  wlan0 IPv6 griffon [c8:1f:66:03:80:8a]                   Workstation          local
++  wlan0 IPv4 griffon [c8:1f:66:03:80:8a]                   Workstation          local
++  wlan0 IPv6 pclab-46 [30:85:a9:46:f3:af]                  Workstation          local
++  wlan0 IPv6 gat-Precision-T7600 [90:b1:1c:64:ef:95]       Workstation          local
++  wlan0 IPv6 pclab-03 [70:71:bc:9c:6c:23]                  Workstation          local
++  wlan0 IPv6 pclab-28 [10:bf:48:73:16:f7]                  Workstation          local
++  wlan0 IPv6 tts-pri [e8:40:f2:08:f3:85]                   Workstation          local
++  wlan0 IPv4 pathak-HP-Z600-Workstation [b4:b5:2f:ca:64:ab] Workstation          local
++  wlan0 IPv4 gat-Precision-T7600 [90:b1:1c:64:ef:95]       Workstation          local
++  wlan0 IPv6 Deshu [70:f3:95:14:a2:31]                     Workstation          local
++  wlan0 IPv6 subashish [f8:bc:12:a7:37:3b]                 Workstation          local
++  wlan0 IPv6 pclab-04 [70:71:bc:9c:6c:55]                  Workstation          local
++  wlan0 IPv6 library-HP-dx2480-MT-KL969AV [00:24:1d:6b:2c:e8] Workstation          local
++  wlan0 IPv6 pclab-17 [70:71:bc:9c:6b:ce]                  Workstation          local
++  wlan0 IPv4 pclab-46 [30:85:a9:46:f3:af]                  Workstation          local
++  wlan0 IPv4 pclab-03 [70:71:bc:9c:6c:23]                  Workstation          local
++  wlan0 IPv4 tts-pri [e8:40:f2:08:f3:85]                   Workstation          local
++  wlan0 IPv4 pclab-28 [10:bf:48:73:16:f7]                  Workstation          local
++  wlan0 IPv4 Deshu [70:f3:95:14:a2:31]                     Workstation          local
++  wlan0 IPv4 pclab-04 [70:71:bc:9c:6c:55]                  Workstation          local
++  wlan0 IPv4 library-HP-dx2480-MT-KL969AV [00:24:1d:6b:2c:e8] Workstation          local
++  wlan0 IPv4 subashish [f8:bc:12:a7:37:3b]                 Workstation          local
++  wlan0 IPv4 pclab-17 [70:71:bc:9c:6b:ce]                  Workstation          local
++  wlan0 IPv6 kartik-HCL-Desktop [70:71:bc:9c:6b:59]        Workstation          local
++  wlan0 IPv4 gateway-2 [c8:1f:66:ba:86:70]                 Workstation          local
++  wlan0 IPv6 ibmnode1 [00:21:5e:99:95:34]                  Workstation          local
++  wlan0 IPv6 anjana-desktop [e8:40:f2:0b:11:8c]            Workstation          local
++  wlan0 IPv6 pclab-26 [10:bf:48:73:18:46]                  Workstation          local
++  wlan0 IPv6 onkar [4c:0f:6e:e6:68:01]                     Workstation          local
++  wlan0 IPv6 boss [1c:75:08:52:e3:20]                      Workstation          local
++  wlan0 IPv6 ibmnode2 [00:21:5e:99:98:34]                  Workstation          local
++  wlan0 IPv6 rudra-2 [34:17:eb:af:0a:8c]                   Workstation          local
++  wlan0 IPv6 saurabh [58:20:b1:3f:ca:1f]                   Workstation          local
++  wlan0 IPv6 dell-Inspiron-660s [a4:1f:72:61:3f:04]        Workstation          local
++  wlan0 IPv6 rlgw [44:a8:42:4a:65:a9]                      Workstation          local
++  wlan0 IPv6 pclab-49 [30:85:a9:47:37:a1]                  Workstation          local
++  wlan0 IPv6 insite [44:a8:42:0b:9a:38]                    Workstation          local
++  wlan0 IPv4 kartik-HCL-Desktop [70:71:bc:9c:6b:59]        Workstation          local
++  wlan0 IPv4 ibmnode1 [00:21:5e:99:95:34]                  Workstation          local
++  wlan0 IPv6 jiten-2 [b4:b5:2f:ca:64:ad]                   Workstation          local
++  wlan0 IPv6 mayank [a0:48:1c:0e:81:83]                    Workstation          local
++  wlan0 IPv6 network [00:15:17:f4:5e:15]                   Workstation          local
++  wlan0 IPv6 csy-Lenovo-H30-50 [c0:3f:d5:e2:6b:f1]         Workstation          local
++  wlan0 IPv6 pclab-07 [70:71:bc:9c:6b:42]                  Workstation          local
++  wlan0 IPv6 rudra [f8:b1:56:dd:7a:4f]                     Workstation          local
++  wlan0 IPv6 pclab-48 [30:85:a9:46:f3:73]                  Workstation          local
++  wlan0 IPv6 kartik [98:90:96:b2:8b:52]                    Workstation          local
++  wlan0 IPv6 pclab-08 [70:71:bc:9c:6b:37]                  Workstation          local
++  wlan0 IPv6 pclab-09 [70:71:bc:9c:6c:56]                  Workstation          local
++  wlan0 IPv6 varun-Inspiron-3521 [80:56:f2:2b:e2:eb]       Workstation          local
++  wlan0 IPv6 faculty [00:15:17:f4:7e:00]                   Workstation          local
++  wlan0 IPv6 faria-Precision-T5600 [18:03:73:1f:c5:1f]     Workstation          local
++  wlan0 IPv6 nanu-ThinkCentre-Edge71 [8c:89:a5:71:1c:a9]   Workstation          local
++  wlan0 IPv6 pclab-30 [30:85:a9:47:3a:14]                  Workstation          local
++  wlan0 IPv6 pclab-47 [30:85:a9:47:39:e7]                  Workstation          local
++  wlan0 IPv6 pclab-19 [00:e0:1c:3c:24:44]                  Workstation          local
++  wlan0 IPv6 rudraa [38:60:77:29:dc:f3]                    Workstation          local
++  wlan0 IPv6 pathak-X550LD [10:c3:7b:8d:97:ac]             Workstation          local
++  wlan0 IPv6 pclab-64 [70:71:bc:9c:6b:4f]                  Workstation          local
++  wlan0 IPv4 anjana-desktop [e8:40:f2:0b:11:8c]            Workstation          local
++  wlan0 IPv4 pclab-26 [10:bf:48:73:18:46]                  Workstation          local
++  wlan0 IPv4 boss [1c:75:08:52:e3:20]                      Workstation          local
++  wlan0 IPv4 ibmnode2 [00:21:5e:99:98:34]                  Workstation          local
++  wlan0 IPv4 saurabh [58:20:b1:3f:ca:1f]                   Workstation          local
++  wlan0 IPv4 rlgw [44:a8:42:4a:65:a9]                      Workstation          local
++  wlan0 IPv4 dell-Inspiron-660s [a4:1f:72:61:3f:04]        Workstation          local
++  wlan0 IPv4 rudra-2 [34:17:eb:af:0a:8c]                   Workstation          local
++  wlan0 IPv4 pclab-49 [30:85:a9:47:37:a1]                  Workstation          local
++  wlan0 IPv4 jiten-2 [b4:b5:2f:ca:64:ad]                   Workstation          local
++  wlan0 IPv6 manish-Inspiron-3521 [9c:2a:70:48:5f:01]      Workstation          local
++  wlan0 IPv4 mayank [a0:48:1c:0e:81:83]                    Workstation          local
++  wlan0 IPv6 pavanteja-Inspiron-5520 [c0:18:85:c8:aa:33]   Workstation          local
++  wlan0 IPv6 pavanteja's remote desktop on pavanteja-Inspiron-5520 Web Site             local
++  wlan0 IPv6 linux-2 [00:1e:67:47:57:52]                   Workstation          local
++  wlan0 IPv6 sriramk-OptiPlex-9020 [98:90:96:cc:b4:8e]     Workstation          local
++  wlan0 IPv6 scidb-vm [08:00:27:db:10:c5]                  Workstation          local
++  wlan0 IPv6 cybernator-X200MA [54:27:1e:c7:ec:1b]         Workstation          local
++  wlan0 IPv6 tulikaps-Precision-T5610 [34:17:eb:ae:9e:ce]  Workstation          local
++  wlan0 IPv6 swap-550P5C-550P7C [c8:f7:33:6d:4e:5d]        Workstation          local
++  wlan0 IPv6 kiriti-Inspiron-5520 [c0:18:85:c1:4a:19]      Workstation          local
++  wlan0 IPv6 ashok-Aspire-E1-431 [24:fd:52:b3:51:5c]       Workstation          local
++  wlan0 IPv6 sparsh-HP-Pavilion-15-NoteBooK-PC [bc:85:56:bf:a7:5b] Workstation          local
++  wlan0 IPv6 ubuntu-2 [b0:10:41:1b:f7:8b]                  Workstation          local
++  wlan0 IPv6 berlin [00:71:cc:42:80:6f]                    Workstation          local
++  wlan0 IPv6 sksq [18:5e:0f:75:d8:75]                      Workstation          local
++  wlan0 IPv6 IITVandeMatram [64:00:6a:68:ee:ef]            Workstation          local
++  wlan0 IPv6 MarCosKaDabba [8c:a9:82:5e:79:4c]             Workstation          local
++  wlan0 IPv4 network [00:15:17:f4:5e:15]                   Workstation          local
++  wlan0 IPv4 csy-Lenovo-H30-50 [c0:3f:d5:e2:6b:f1]         Workstation          local
++  wlan0 IPv4 pclab-07 [70:71:bc:9c:6b:42]                  Workstation          local
++  wlan0 IPv4 rudra [f8:b1:56:dd:7a:4f]                     Workstation          local
++  wlan0 IPv4 pclab-48 [30:85:a9:46:f3:73]                  Workstation          local
++  wlan0 IPv4 pclab-08 [70:71:bc:9c:6b:37]                  Workstation          local
++  wlan0 IPv4 kartik [98:90:96:b2:8b:52]                    Workstation          local
++  wlan0 IPv4 pclab-09 [70:71:bc:9c:6c:56]                  Workstation          local
++  wlan0 IPv4 varun-Inspiron-3521 [80:56:f2:2b:e2:eb]       Workstation          local
++  wlan0 IPv4 faria-Precision-T5600 [18:03:73:1f:c5:1f]     Workstation          local
++  wlan0 IPv4 phoenix [e0:69:95:3c:a4:87]                   Workstation          local
++  wlan0 IPv6 samya-Lenovo-G500 [24:fd:52:93:76:78]         Workstation          local
++  wlan0 IPv4 nanu-ThinkCentre-Edge71 [8c:89:a5:71:1c:a9]   Workstation          local
++  wlan0 IPv4 pclab-30 [30:85:a9:47:3a:14]                  Workstation          local
++  wlan0 IPv4 onkar [4c:0f:6e:e6:68:01]                     Workstation          local
++  wlan0 IPv4 pclab-47 [30:85:a9:47:39:e7]                  Workstation          local
++  wlan0 IPv4 pclab-19 [00:e0:1c:3c:24:44]                  Workstation          local
++  wlan0 IPv4 rudraa [38:60:77:29:dc:f3]                    Workstation          local
++  wlan0 IPv4 pathak-X550LD [10:c3:7b:8d:97:ac]             Workstation          local
++  wlan0 IPv4 pclab-42 [30:85:a9:46:f3:a9]                  Workstation          local
++  wlan0 IPv4 pclab-64 [70:71:bc:9c:6b:4f]                  Workstation          local
++  wlan0 IPv6 nasir-HP-15-Notebook-PC [ec:0e:c4:60:4e:99]   Workstation          local
++  wlan0 IPv4 liquid [5c:b9:01:05:41:a8]                    Workstation          local
++  wlan0 IPv4 manish-Inspiron-3521 [9c:2a:70:48:5f:01]      Workstation          local
++  wlan0 IPv6 sudhir [f4:b7:e2:b0:61:3b]                    Workstation          local
++  wlan0 IPv4 pavanteja-Inspiron-5520 [c0:18:85:c8:aa:33]   Workstation          local
++  wlan0 IPv4 sriramk-OptiPlex-9020 [98:90:96:cc:b4:8e]     Workstation          local
++  wlan0 IPv4 linux-2 [00:1e:67:47:57:52]                   Workstation          local
++  wlan0 IPv4 scidb-vm [08:00:27:db:10:c5]                  Workstation          local
++  wlan0 IPv4 cybernator-X200MA [54:27:1e:c7:ec:1b]         Workstation          local
++  wlan0 IPv4 tulikaps-Precision-T5610 [34:17:eb:ae:9e:ce]  Workstation          local
++  wlan0 IPv6 pclab-61                                      Remote Disk Management local
++  wlan0 IPv6 tulika-OptiPlex-9010                          Remote Disk Management local
++  wlan0 IPv6 lanka                                         Remote Disk Management local
++  wlan0 IPv6 mk-desktop                                    Remote Disk Management local
++  wlan0 IPv6 hvarma                                        Remote Disk Management local
++  wlan0 IPv4 swap-550P5C-550P7C [c8:f7:33:6d:4e:5d]        Workstation          local
++  wlan0 IPv6 LIBRARY01                                     Remote Disk Management local
++  wlan0 IPv6 Research                                      Remote Disk Management local
++  wlan0 IPv4 kiriti-Inspiron-5520 [c0:18:85:c1:4a:19]      Workstation          local
++  wlan0 IPv6 IITMandi                                      Remote Disk Management local
++  wlan0 IPv6 aghori                                        Remote Disk Management local
++  wlan0 IPv4 ashok-Aspire-E1-431 [24:fd:52:b3:51:5c]       Workstation          local
++  wlan0 IPv6 gat-Precision-T7600                           Remote Disk Management local
++  wlan0 IPv6 pathak-HP-Z600-Workstation                    Remote Disk Management local
++  wlan0 IPv4 sparsh-HP-Pavilion-15-NoteBooK-PC [bc:85:56:bf:a7:5b] Workstation          local
++  wlan0 IPv4 berlin [00:71:cc:42:80:6f]                    Workstation          local
++  wlan0 IPv6 subashish                                     Remote Disk Management local
++  wlan0 IPv6 anjana-desktop                                Remote Disk Management local
++  wlan0 IPv4 ubuntu-2 [b0:10:41:1b:f7:8b]                  Workstation          local
++  wlan0 IPv6 anshu-HP-Pavilion-g6-Notebook-PC [c0:18:85:94:6a:d5] Workstation          local
++  wlan0 IPv4 sksq [18:5e:0f:75:d8:75]                      Workstation          local
++  wlan0 IPv6 amit-2 [b0:10:41:b2:40:b3]                    Workstation          local
++  wlan0 IPv4 MarCosKaDabba [8c:a9:82:5e:79:4c]             Workstation          local
++  wlan0 IPv6 dell-Inspiron-660s                            Remote Disk Management local
++  wlan0 IPv6 insite                                        Remote Disk Management local
++  wlan0 IPv6 jiten-2                                       Remote Disk Management local
++  wlan0 IPv6 rudra                                         Remote Disk Management local
++  wlan0 IPv6 network                                       Remote Disk Management local
++  wlan0 IPv4 samya-Lenovo-G500 [24:fd:52:93:76:78]         Workstation          local
++  wlan0 IPv6 faculty                                       Remote Disk Management local
++  wlan0 IPv6 kartik                                        Remote Disk Management local
++  wlan0 IPv6 jyoti [20:68:9d:81:4b:5e]                     Workstation          local
++  wlan0 IPv6 rudra-2                                       Remote Disk Management local
++  wlan0 IPv6 rudraa                                        Remote Disk Management local
++  wlan0 IPv6 sriramk-OptiPlex-9020                         Remote Disk Management local
++  wlan0 IPv4 sudhir [f4:b7:e2:b0:61:3b]                    Workstation          local
++  wlan0 IPv6 linux-2                                       Remote Disk Management local
++  wlan0 IPv6 IITVandeMatram                                Remote Disk Management local
++  wlan0 IPv6 Nucleation                                    Remote Disk Management local
++  wlan0 IPv4 pclab-61                                      Remote Disk Management local
++  wlan0 IPv4 tulika-OptiPlex-9010                          Remote Disk Management local
++  wlan0 IPv4 lanka                                         Remote Disk Management local
++  wlan0 IPv4 mk-desktop                                    Remote Disk Management local
++  wlan0 IPv4 LIBRARY01                                     Remote Disk Management local
++  wlan0 IPv6 berlin                                        Remote Disk Management local
++  wlan0 IPv4 Research                                      Remote Disk Management local
++  wlan0 IPv4 hvarma                                        Remote Disk Management local
++  wlan0 IPv4 aghori                                        Remote Disk Management local
++  wlan0 IPv6 LigoDLB 5-20 (10.8.2.200, 00:19:3B:08:EA:CC)  Web Site             local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (F349E0)             Web Site             local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (F349E0)             PDL Printer          local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (F349E0)             UNIX Printer         local
++  wlan0 IPv6 utkarsh [70:77:81:bf:3f:39]                   Workstation          local
++  wlan0 IPv6 kiriti-Inspiron-5520                          Remote Disk Management local
++  wlan0 IPv6 sudhir                                        Remote Disk Management local
++  wlan0 IPv4 gat-Precision-T7600                           Remote Disk Management local
++  wlan0 IPv4 pathak-HP-Z600-Workstation                    Remote Disk Management local
++  wlan0 IPv4 anjana-desktop                                Remote Disk Management local
++  wlan0 IPv4 subashish                                     Remote Disk Management local
++  wlan0 IPv6 HP LaserJet pro M1536dnf MFP (CE538A)         Web Site             local
++  wlan0 IPv6 HP LaserJet pro M1536dnf MFP (CE538A)         PDL Printer          local
++  wlan0 IPv6 HP LaserJet pro M1536dnf MFP (CE538A)         UNIX Printer         local
++  wlan0 IPv6 duggal [84:a6:c8:29:e2:5d]                    Workstation          local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (6DB38D)             Web Site             local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (6DB38D)             PDL Printer          local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (6DB38D)             UNIX Printer         local
++  wlan0 IPv4 anshu-HP-Pavilion-g6-Notebook-PC [c0:18:85:94:6a:d5] Workstation          local
++  wlan0 IPv4 amit-2 [b0:10:41:b2:40:b3]                    Workstation          local
++  wlan0 IPv4 dell-Inspiron-660s                            Remote Disk Management local
++  wlan0 IPv4 jiten-2                                       Remote Disk Management local
++  wlan0 IPv4 network                                       Remote Disk Management local
++  wlan0 IPv4 rudra                                         Remote Disk Management local
++  wlan0 IPv4 kartik                                        Remote Disk Management local
++  wlan0 IPv4 jyoti [20:68:9d:81:4b:5e]                     Workstation          local
++  wlan0 IPv4 rudraa                                        Remote Disk Management local
++  wlan0 IPv4 linux-2                                       Remote Disk Management local
++  wlan0 IPv4 IITVandeMatram                                Remote Disk Management local
++  wlan0 IPv4 Nucleation                                    Remote Disk Management local
++  wlan0 IPv4 berlin                                        Remote Disk Management local
++  wlan0 IPv4 Tushaar                                       _ni-logos._tcp       local
++  wlan0 IPv4 DESKTOP-G6ICUIS                               _ni-logos._tcp       local
++  wlan0 IPv4 hp                                            _ni-logos._tcp       local
++  wlan0 IPv4 HP Web-based Configuration                    Web Site             local
++  wlan0 IPv4 LigoDLB 5-20 (10.8.2.200, 00:19:3B:08:EA:CC)  Web Site             local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (F349E0)             Web Site             local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (F349E0)             PDL Printer          local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (F349E0)             UNIX Printer         local
++  wlan0 IPv4 kiriti-Inspiron-5520                          Remote Disk Management local
++  wlan0 IPv4 sudhir                                        Remote Disk Management local
++  wlan0 IPv4 Salam                                         _ni-logos._tcp       local
++  wlan0 IPv4 HP LaserJet pro M1536dnf MFP (CE538A)         PDL Printer          local
++  wlan0 IPv4 HP LaserJet pro M1536dnf MFP (CE538A)         UNIX Printer         local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (6DB38D)             Web Site             local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (6DB38D)             PDL Printer          local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (6DB38D)             UNIX Printer         local
++  wlan0 IPv4 duggal [84:a6:c8:29:e2:5d]                    Workstation          local
++  wlan0 IPv4 mandeep-PC                                    _ni-logos._tcp       local
++  wlan0 IPv4 DESKTOP-G9VEA69                               _ni-logos._tcp       local
++  wlan0 IPv4 patel_PC                                      _ni-logos._tcp       local
++  wlan0 IPv4 nasir-HP-15-Notebook-PC [ec:0e:c4:60:4e:99]   Workstation          local
++  wlan0 IPv4 shubash-PC                                    _ni-logos._tcp       local
++  wlan0 IPv6 Agilent PCSERNO Unknown Instrument - SJ27987929 (2) Web Site             local
++  wlan0 IPv4 Brother DCP-7065DN                            PDL Printer          local
++  wlan0 IPv4 Brother DCP-7065DN                            UNIX Printer         local
++  wlan0 IPv4 AMITPC [90:a4:de:75:a9:4b]                    Workstation          local
++  wlan0 IPv6 jyoti                                         Remote Disk Management local
++  wlan0 IPv4 jyoti                                         Remote Disk Management local
++  wlan0 IPv4 ram_iitm                                      _ni-sysapi._tcp      local
++  wlan0 IPv6 Brother DCP-7065DN [001ba9a52f68]             PDL Printer          local
++  wlan0 IPv6 Brother DCP-7065DN [001ba9a52f68]             UNIX Printer         local
++  wlan0 IPv6 Brother DCP-7065DN [001ba9a52f68]             Web Site             local
++  wlan0 IPv4 Brother DCP-7065DN [001ba9a52f68]             PDL Printer          local
++  wlan0 IPv4 Brother DCP-7065DN [001ba9a52f68]             UNIX Printer         local
++  wlan0 IPv4 Brother DCP-7065DN [001ba9a52f68]             Web Site             local
++  wlan0 IPv4 771521999                                     _teamviewer._tcp     local
++  wlan0 IPv6 D-Link HNAP Service                           _dhnap._tcp          local
++  wlan0 IPv4 D-Link HNAP Service                           _dhnap._tcp          local
++  wlan0 IPv4 391349228                                     _teamviewer._tcp     local
++  wlan0 IPv4 210145832                                     _teamviewer._tcp     local
++  wlan0 IPv4 DELL (3)                                      _nvstream._tcp       local
++  wlan0 IPv4 119050516                                     _teamviewer._tcp     local
++  wlan0 IPv6 pavanteja's remote desktop on pavanteja-Inspiron-5520 VNC Remote Access    local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (F349E0)             _http-alt._tcp       local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (F349E0)             _print-caps._tcp     local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (F349E0)             _scanner._tcp        local
++  wlan0 IPv6 HP LaserJet pro M1536dnf MFP (CE538A)         _http-alt._tcp       local
++  wlan0 IPv6 HP LaserJet pro M1536dnf MFP (CE538A)         _print-caps._tcp     local
++  wlan0 IPv6 HP LaserJet pro M1536dnf MFP (CE538A)         _scanner._tcp        local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (6DB38D)             _http-alt._tcp       local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (6DB38D)             _print-caps._tcp     local
++  wlan0 IPv6 HP LaserJet M1536dnf MFP (6DB38D)             _scanner._tcp        local
++  wlan0 IPv4 SAHIL-PC                                      _nvstream._tcp       local
++  wlan0 IPv4 721997251                                     _teamviewer._tcp     local
++  wlan0 IPv4 MYMACHINE                                     _nvstream._tcp       local
++  wlan0 IPv4 962653954                                     _teamviewer._tcp     local
++  wlan0 IPv4 D-Link HNAP Service (2)                       _dhnap._tcp          local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (F349E0)             _http-alt._tcp       local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (F349E0)             _print-caps._tcp     local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (F349E0)             _scanner._tcp        local
++  wlan0 IPv4 HP LaserJet pro M1536dnf MFP (CE538A)         _http-alt._tcp       local
++  wlan0 IPv4 HP LaserJet pro M1536dnf MFP (CE538A)         _print-caps._tcp     local
++  wlan0 IPv4 HP LaserJet pro M1536dnf MFP (CE538A)         _scanner._tcp        local
++  wlan0 IPv4 507013310                                     _teamviewer._tcp     local
++  wlan0 IPv4 pavanteja's remote desktop on pavanteja-Inspiron-5520 VNC Remote Access    local
++  wlan0 IPv4 122714168                                     _teamviewer._tcp     local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (6DB38D)             _http-alt._tcp       local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (6DB38D)             _print-caps._tcp     local
++  wlan0 IPv4 HP LaserJet M1536dnf MFP (6DB38D)             _scanner._tcp        local
++  wlan0 IPv4 liquid                                        SSH Remote Terminal  local
++  wlan0 IPv4 WELCOME                                       _nvstream._tcp       local
++  wlan0 IPv4 635007318                                     _teamviewer._tcp     local
++  wlan0 IPv4 MSI                                           _nvstream._tcp       local
++  wlan0 IPv4 PARTIK                                        _nvstream._tcp       local
++  wlan0 IPv4 DESKTOP-12VCRUC                               _nvstream._tcp       local
++  wlan0 IPv4 HARSHA                                        _nvstream._tcp       local
++  wlan0 IPv4 HP (3)                                        _nvstream._tcp       local
++  wlan0 IPv4 AKSHAY-PC                                     _nvstream._tcp       local
++  wlan0 IPv4 ASHU                                          _nvstream._tcp       local
++  wlan0 IPv4 PRADEEPKUMAR                                  _nvstream._tcp       local
++  wlan0 IPv4 HEISENBURG                                    _nvstream._tcp       local
++  wlan0 IPv4 DESKTOP-SQ7QNCL                               _nvstream._tcp       local
++  wlan0 IPv4 281780006                                     _teamviewer._tcp     local
++  wlan0 IPv4 somnath-PC                                    _ni-logos._tcp       local
++  wlan0 IPv6 ac:cf:5c:51:a1:6d@fe80::aecf:5cff:fe51:a16d   _apple-mobdev2._tcp  local
++  wlan0 IPv4 ac:cf:5c:51:a1:6d@fe80::aecf:5cff:fe51:a16d   _apple-mobdev2._tcp  local
++  wlan0 IPv6 328326628                                     _teamviewer._tcp     local
++  wlan0 IPv4 HP                                            _nvstream._tcp       local
++  wlan0 IPv4 Abhishek___s MacBook Pro                      Microsoft Windows Network local
++  wlan0 IPv4 Abhishek___s MacBook Pro                      Apple File Sharing   local
++  wlan0 IPv4 ADMIN                                         _nvstream._tcp       local
++  wlan0 IPv4 Devang___s MacBook Pro                        SSH Remote Terminal  local
++  wlan0 IPv4 Devang___s MacBook Pro                        SFTP File Transfer   local
++  wlan0 IPv4 SS                                            _nvstream._tcp       local
++  wlan0 IPv4 Nitin___s MacBook Air                         Microsoft Windows Network local
++  wlan0 IPv4 Nitin___s MacBook Air                         VNC Remote Access    local
++  wlan0 IPv4 Nitin___s MacBook Air                         Apple File Sharing   local
++  wlan0 IPv6 Nitin___s MacBook Air                         Microsoft Windows Network local
++  wlan0 IPv6 Nitin___s MacBook Air                         VNC Remote Access    local
++  wlan0 IPv6 Nitin___s MacBook Air                         Apple File Sharing   local
++  wlan0 IPv4 Deepak___s MacBook Air                        Microsoft Windows Network local
++  wlan0 IPv4 Deepak___s MacBook Air                        VNC Remote Access    local
++  wlan0 IPv4 Deepak___s MacBook Air                        Apple File Sharing   local
++  wlan0 IPv6 Deepak___s MacBook Air                        Microsoft Windows Network local
++  wlan0 IPv6 Deepak___s MacBook Air                        VNC Remote Access    local
++  wlan0 IPv6 Deepak___s MacBook Air                        Apple File Sharing   local
++  wlan0 IPv4 SONITH                                        _nvstream._tcp       local
++  wlan0 IPv4 siddhu___s MacBook Air                        VNC Remote Access    local
++  wlan0 IPv4 siddhu___s MacBook Air                        _HippoRemote._tcp    local
++  wlan0 IPv6 siddhu___s MacBook Air                        VNC Remote Access    local
++  wlan0 IPv6 siddhu___s MacBook Air                        _HippoRemote._tcp    local
++  wlan0 IPv4 329751602                                     _teamviewer._tcp     local
++  wlan0 IPv4 Umang___s MacBook Pro                         Microsoft Windows Network local
++  wlan0 IPv4 Umang___s MacBook Pro                         Apple File Sharing   local
++  wlan0 IPv6 Umang___s MacBook Pro                         Microsoft Windows Network local
++  wlan0 IPv6 Umang___s MacBook Pro                         Apple File Sharing   local
++  wlan0 IPv6 prashant___s MacBook Air                      _odproxy._tcp        local
++  wlan0 IPv4 prashant___s MacBook Air                      _odproxy._tcp        local
++  wlan0 IPv6 Aysar___s MacBook Pro                         _atc._tcp            local
++  wlan0 IPv4 Aysar___s MacBook Pro                         _atc._tcp            local
++  wlan0 IPv4 pratap-HP-ENVY-15-Notebook-PC [30:3a:64:80:de:c3] Workstation          local
++  wlan0 IPv4 IITMandi                                      Remote Disk Management local
++  wlan0 IPv4 rudra-2                                       Remote Disk Management local
++  wlan0 IPv4 Canon MB5000 series                           UNIX Printer         local
